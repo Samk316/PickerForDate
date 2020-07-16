@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jul 16 18:19:12 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Sam Kuen\\AndroidStudioProjects\\android-fundamentals-apps-v2-master\\PickerForDate\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
